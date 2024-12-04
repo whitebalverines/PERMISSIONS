@@ -8,7 +8,7 @@ Here is a list of what you can and can't do with all of my mods!
 - Please ask before making portraits/sprites for my NPCs. Generally I'll agree, but I'd still like to know what's going on!
 - You may not use my assets for other projects without my permission
 - You may not use my assets in projects that will be locked behind a paywall or cost downloaders money to use
-- Please do not copy and paste my code or publish any part of my mods without permission
+- Please do not publish edited versions of my mod, or reupload them
 - For any mods other than my NPCs and locations, you may update and release fixes without asking permission, just give proper credit please
 
 ### ANIMALS AND ITEMS ###
