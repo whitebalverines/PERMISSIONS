@@ -10,6 +10,7 @@ Here is a list of what you can and can't do with all of my mods!
 - You may not use my assets in projects that will be locked behind a paywall or cost downloaders money to use
 - Please do not publish edited versions of my mod, or reupload them
 - For any mods other than my NPCs and locations, you may update and release fixes without asking permission, just give proper credit please
+- I do not offer compatibility for some mods, such as SVE, other than fixing game breaking issues. This **does not** mean you have permission to add it yourself. You may do whatever you like privately, but you **may not** share these publically.
 
 ### ANIMALS AND ITEMS ###
 
